@@ -12,6 +12,6 @@
 * It includes a weather _icon_ (adds a little character ;D)
 #### Responsive to screen size
 ![responsive preview(smaller)](https://user-images.githubusercontent.com/113444290/219581236-caea2e5d-961e-461b-a0b5-ac9fcda0c3f1.png)
-##APIs
+## APIs:
 Weather data: https://api.openweathermap.org/
 
