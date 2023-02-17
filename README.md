@@ -9,7 +9,7 @@
 	* returns the _min_ temp
 	* returns the _max_ temp
 	* returns the _description_ of the weather (e.g., sunny,rainy,light clouds)
-* It includes an _icon_ of the weather(adds a little character ;D)
+* It includes a weather _icon_ (adds a little character ;D)
 #### It displays an error message when it's unable to return data
 ![ErrorPreview(smaller)](https://user-images.githubusercontent.com/113444290/219580790-16b17a44-4c99-4771-a100-3001f18bef46.png)
 #### Responsive to screen size
