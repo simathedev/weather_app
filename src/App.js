@@ -7,7 +7,7 @@ import '../src/icons.css';
 
 
 function App() {
-const api={key:/*ENTER KEY*/,
+const api={key:/*ENTER API KEY*/,
           base:"https://api.openweathermap.org/data/2.5/"
 }
 
